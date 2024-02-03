@@ -13,6 +13,7 @@ export const custom = {
   blue: '#3281FF',
   deepBlue: '#0066FF',
   darkBlue: '#434364',
+  purpleBlue: '#6236FF',
   lavender: '#8F4D6E',
   cyan: '#00CFFF',
   green: '#00B136',

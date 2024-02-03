@@ -1,7 +1,7 @@
+import BlurredBackground from '@/components/global/BlurredBackground'
 import '@/styles/globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
-import classNames from 'classnames'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -20,7 +20,13 @@ export default function RootLayout({
       <head>
         <link rel="icon" type="image/x-icon" href="/favicon/wot-favicon.ico" />
       </head>
-      <body className={classNames(inter.className, 'bg-zinc-50')}>{children}</body>
+
+      <body className={inter.className}>
+        <main className="relative min-h-screen w-full bg-white">
+          <BlurredBackground />
+          <div className="relative">{children}</div>
+        </main>
+      </body>
     </html>
   )
 }
