@@ -1,0 +1,15 @@
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/saif98/CS Stuff/Projects/khelaghor/csharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
